@@ -8,7 +8,7 @@ Hi! You are welcomed to my github page. My name Kaan Berke UĞURLAR and I am in 
 ### Know || Using 🧠
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="60" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></a></code>
 <code><a href="https://stackoverflow.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></a></code>
 <code><a href="https://google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></a></code>
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
@@ -17,7 +17,10 @@ Hi! You are welcomed to my github page. My name Kaan Berke UĞURLAR and I am in 
 
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
 <code><a href="https://www.numpy.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
+<code><a href="https://pandas.pydata.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
+<code><a href="https://scikit-learn.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+<code><a href="https://keras.io/" target="_blank"><img height="45" src="https://keras.io/img/logo.png"></a></code>
 <code><a href="https://www.opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
 <code><a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code> 
