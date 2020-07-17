@@ -48,3 +48,6 @@ Hi! You are welcomed to my github page. My name Kaan Berke UĞURLAR and I am in 
 [![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=Kaanberke&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkaanberke)](https://www.linkedin.com/in/kaanberke/)
 
 [![Instagram Badge](https://img.shields.io/twitter/url?color=purple&label=Kaanberkeugurlar&logo=instagram&logoColor=purple&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fkaanberkeugurlar)](https://instagram.com/kaanberkeugurlar/)
+
+## Visitors 💬
+ ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkaanberke.kaanberke%2Freadme)
