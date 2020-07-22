@@ -16,6 +16,7 @@ Hi! You are welcomed to my github page. My name Kaan Berke UĞURLAR and I am in 
 <br>
 
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
+<code><a href="https://www.django-rest-framework.org/" target="_blank"><img height="50" src="https://files.realpython.com/media/djang-rest-framework-logo.37921ea75c09.png"></a></code>
 <code><a href="https://www.numpy.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
 <code><a href="https://pandas.pydata.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
 <code><a href="https://scikit-learn.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></a></code>
@@ -37,6 +38,7 @@ Hi! You are welcomed to my github page. My name Kaan Berke UĞURLAR and I am in 
 ### Learning 📖
 
 <code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
+<code><a href="https://fastapi.tiangolo.com/" target="_blank"><img height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></a></code>
 <code><a href="https://spark.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 
