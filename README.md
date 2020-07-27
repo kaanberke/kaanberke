@@ -25,7 +25,7 @@ Hi! You are welcomed to my github page. My name Kaan Berke UĞURLAR and I am in 
 <code><a href="https://www.opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
 <code><a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code> 
-
+<code><a href="https://www.selenium.dev/" target="_blank"><img height="50" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png"></a></code> 
 <br>
 
 <code><a href="https://www.vim.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></a></code> 
