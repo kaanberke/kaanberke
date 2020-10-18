@@ -5,9 +5,9 @@ Hi! You are welcomed to my github page. My name Kaan Berke UĞURLAR and I am in 
 ![Kaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaanberke&show_icons=true)
 
 
-### Know || Using 🧠
+## Know || Using 🧠
 
-## Languages/Sources
+### Languages/Sources
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="60" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></a></code>
@@ -15,9 +15,7 @@ Hi! You are welcomed to my github page. My name Kaan Berke UĞURLAR and I am in 
 <code><a href="https://google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></a></code>
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
 
-<br>
-
-## Frameworks/Databases
+### Frameworks/Databases
 
 <code><a href="https://flask.palletsprojects.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
@@ -32,9 +30,8 @@ Hi! You are welcomed to my github page. My name Kaan Berke UĞURLAR and I am in 
 <code><a href="https://www.https://redis.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></a></code>
 <code><a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code> 
-<br>
 
-## Tools
+### Tools
 
 <code><a href="https://www.vim.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></a></code> 
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
@@ -43,7 +40,7 @@ Hi! You are welcomed to my github page. My name Kaan Berke UĞURLAR and I am in 
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
 
-### Learning 📖
+### Still Learning 📖
 
 <code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 <code><a href="https://fastapi.tiangolo.com/" target="_blank"><img height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></a></code>
