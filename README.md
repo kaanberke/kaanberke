@@ -58,3 +58,5 @@ Hi! You are welcomed to my github page. My name Kaan Berke UĞURLAR and I am in 
 
 ## Visitors 💬
  ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkaanberke.kaanberke%2Freadme)
+![Visitors](https://komarev.com/ghpvc/?username=kaanberke&color=brightgreen)
+ 
