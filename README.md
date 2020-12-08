@@ -2,7 +2,7 @@
 
 Hi! You are welcomed to my github page. My name Kaan Berke UĞURLAR and I am in my 2nd decade on the planet Earth. I am eager to search anything that either I know a bit or I do not know a thing about. I keep myself busy by working on AI and Web, mostly. I do read Turkish novels and recommend you to do the same. If anything interesting happens on the Earth while I'm on duty, I'll let you know! Until then, peace out!
 
-![Kaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaanberke&show_icons=true)
+![Kaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaanberke&show_icons=true&theme=blue-green)
 
 
 ## Know || Using 🧠
