@@ -4,50 +4,6 @@ Hi! You are welcomed to my github page. My name Kaan Berke UĞURLAR and I am in 
 
 ![Kaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaanberke&show_icons=true&theme=blue-green)
 
-
-## Know || Using 🧠
-
-### Languages/Sources
-
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="60" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></a></code>
-<code><a href="https://stackoverflow.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></a></code>
-<code><a href="https://google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></a></code>
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
-
-### Frameworks/Databases
-
-<code><a href="https://flask.palletsprojects.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg"></a></code>
-<code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
-<code><a href="https://www.django-rest-framework.org/" target="_blank"><img height="50" src="https://files.realpython.com/media/djang-rest-framework-logo.37921ea75c09.png"></a></code>
-<code><a href="https://www.numpy.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/50221806/86498193-96dbe380-bd39-11ea-8adf-35606778f6a9.png"></a></code>
-<code><a href="https://pandas.pydata.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
-<code><a href="https://scikit-learn.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-<code><a href="https://keras.io/" target="_blank"><img height="45" src="https://keras.io/img/logo.png"></a></code>
-<code><a href="https://www.opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
-<code><a href="https://www.selenium.dev/" target="_blank"><img height="50" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png"></a></code>
-<code><a href="https://www.https://redis.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></a></code>
-<code><a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
-<code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code> 
-
-### Tools
-
-<code><a href="https://www.vim.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></a></code> 
-<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
-<code><a href="https://www.jetbrains.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code> 
-<code><a href="https://www.jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-
-
-### Still Learning 📖
-
-<code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
-<code><a href="https://fastapi.tiangolo.com/" target="_blank"><img height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></a></code>
-<code><a href="https://spark.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-
-
 ## Contact Me 📫
 
 [![Twitter Badge](https://img.shields.io/twitter/url?color=blue&label=Kaanberke&logo=twitter&style=for-the-badge&url=http%3A%2F%2Ftwitter.com%2Fkaanberkee)](https://www.twitter.com/kaanberkee/)
@@ -57,6 +13,5 @@ Hi! You are welcomed to my github page. My name Kaan Berke UĞURLAR and I am in 
 [![Instagram Badge](https://img.shields.io/twitter/url?color=purple&label=Kaanberkeugurlar&logo=instagram&logoColor=purple&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fkaanberkeugurlar)](https://instagram.com/kaanberkeugurlar/)
 
 ## Visitors 💬
- ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkaanberke.kaanberke%2Freadme)
-![Visitors](https://komarev.com/ghpvc/?username=kaanberke&color=brightgreen)
+![Visitors](https://komarev.com/ghpvc/?username=kaanberke&color=red)
  
